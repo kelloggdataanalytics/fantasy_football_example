@@ -8,4 +8,6 @@ There are 3 main files:
 2) nfl_interactive_mod.r - creates UI for dashbaord tracker using new aggregated data by player. Dashboard contains two interactive panels, one for WRs and one for RBs and multiple tabs on each panel containing interactive charts via plotly and summary statistics.
 3) ff_app.R - app file that calls the UI and SI to set up the structure. 
 
+The screenshot below shows a working version of the dashboard UI. 
+
 ![alt text](https://github.com/kelloggdataanalytics/fantasy_football_example/blob/master/dashboard_screenshot.PNG)
